@@ -34,3 +34,6 @@ AbhinandanSharma.com is the central professional and digital identity hub for Ab
 This public repository documents the project as part of my digital portfolio.
 
 Production source code, deployment configuration and private implementation files are not published here.
+## Website Preview
+
+![AbhinandanSharma.com website preview](IMG_20260827_133510.jpg)
